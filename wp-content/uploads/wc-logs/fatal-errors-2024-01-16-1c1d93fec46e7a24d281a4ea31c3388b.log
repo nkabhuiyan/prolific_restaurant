@@ -1,0 +1,2 @@
+2024-01-16T16:22:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\resturent\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\orm\lib\Doctrine\ORM\Persisters\Entity\EntityPersister.php on line 4
+

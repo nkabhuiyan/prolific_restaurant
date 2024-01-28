@@ -1,0 +1,4 @@
+2024-01-26T11:41:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\resturent\wp-content\plugins\elementor\core\files\css\global-css.php on line 8
+
+2024-01-26T18:39:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\resturent\wp-content\plugins\astra-sites\inc\classes\class-astra-sites-page.php on line 9
+

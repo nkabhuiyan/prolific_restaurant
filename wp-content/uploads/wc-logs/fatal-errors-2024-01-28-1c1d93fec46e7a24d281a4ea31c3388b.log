@@ -1,0 +1,6 @@
+2024-01-28T16:36:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\resturent\wp-content\plugins\woocommerce\assets\client\admin\admin-layout\index.asset.php on line 1
+
+2024-01-28T16:36:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\resturent\wp-content\plugins\elementor\includes\base\skin-base.php on line 4
+
+2024-01-28T18:02:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\resturent\wp-includes\plugin.php on line 173
+
